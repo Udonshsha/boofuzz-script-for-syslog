@@ -1,0 +1,1 @@
+# boofuzz-script-for-syslog
